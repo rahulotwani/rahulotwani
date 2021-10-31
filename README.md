@@ -7,9 +7,8 @@
 <h3 align="center"> 🙋🏽‍♂️About Me </h3>
 <p align="center"> <samp> 
   <ol>
-  <li>Final Year,  Information Technology (CSE) NIT Durgapur 2021</li>
-  <li>Software Engineer Intern at JP Morgan Chase & Co. </li>
-  <li>Co Tech Head <a href="https://github.com/lugnitdgp">@lugnitdgp</a> 2020-2021.</li>
+  <li>Information Technology, NIT Durgapur 2021</li>
+  <li>Software Engineer at JP Morgan Chase & Co. </li>
   <li> Google Code In Mentor @Fedora</li>
   </ol>
   
