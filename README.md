@@ -4,12 +4,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulotwani&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Rahul's Github Stats">
 </p>
 <br>
-<h3 align="center"> 🙋🏽‍♂️About Me </h3>
+<h3 align="left"> 🙋🏽‍♂️Me and my views </h3>
 <p align="center"> <samp> 
   <ol>
-  <li>Information Technology, NIT Durgapur 2021</li>
-  <li>Software Engineer at JP Morgan Chase & Co. </li>
-  <li> Google Code In Mentor @Fedora</li>
+  <li>Software Engineer @ Adobe Firefly </li>
+  <li> IT Graduate from NIT Durgapur, India </li>
+  <li> Using AI for code is like using a coffee machine instead of a french press </li>
+  <li> Back here after a long while </li>
   </ol>
   
   </samp>
