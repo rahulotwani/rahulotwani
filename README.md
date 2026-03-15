@@ -1,4 +1,4 @@
-<h2 align='center'> 𝐇𝐞y 𝐭𝐡𝐞𝐫𝐞!  I'm Rahul Otwani 👋 </h2>
+<h2 align='center'> 𝐇𝐞y 𝐭𝐡𝐞𝐫𝐞!  I'm Rahul 👋 </h2>
 <br>
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulotwani&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Rahul's Github Stats">
@@ -7,9 +7,8 @@
 <h3 align="left"> 🙋🏽‍♂️Me and my views </h3>
 <p align="center"> <samp> 
   <ol>
-  <li>Software Engineer @ Adobe Firefly </li>
-  <li> IT Graduate from NIT Durgapur, India </li>
-  <li> Using AI for code is like using a coffee machine instead of a french press </li>
+  <li>Machine Learning Engineer 3 @ Adobe Firefly </li>
+  <li> All code written after 2026 is generated, brewed by AI Agents! </li>
   <li> Back here after a long while </li>
   </ol>
   
